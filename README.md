@@ -1,10 +1,10 @@
-Welcome to Employee Scheduling
+Welcome to Calendar Planner
 Nice to see you here!
 
 Whenever you have trouble in the app, We will be ready to support you.
 
 Privacy Policy
-Devy built the Employee Scheduling app as a free app. This SERVICE is provided by Devy at no cost and is intended for use as is.
+Devy built the Calendar Planner app as a free app. This SERVICE is provided by Devy at no cost and is intended for use as is.
 
 Security
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
